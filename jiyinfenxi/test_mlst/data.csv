@@ -1,0 +1,8 @@
+,sucA,purE,thrA,hisD,hemD,dnaN,aroC
+identity,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+coverage,100.0,100.0,100.0,100.0,100.0,100.0,100.0
+allele,9,5,2,9,12,19,10
+allele_name,sucA_9,purE_5,thrA_2,hisD_9,hemD_12,dnaN_19,aroC_10
+align_len,501,399,501,501,432,501,501
+gaps,0,0,0,0,0,0,0
+sbj_len,501,399,501,501,432,501,501

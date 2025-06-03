@@ -1,0 +1,4 @@
+,virulence_gene,identity,HSP_length,template_length,position_in_ref,contig_name,positions_in_contig,note,accession,protein_function,coverage,hit_id
+Scaffold2:71314..72198:nlpI:1:CP000243:94.487226,nlpI,94.7,887,885,1..885,Scaffold2,71314..72198,1,CP000243,  lipoprotein NlpI precursor,99.77,Scaffold2:71314..72198:nlpI:1:CP000243:94.487226
+Scaffold5:93757..94184:shiB:2:AAD44732:84.415584,shiB,91.12,428,462,1..428,Scaffold5,93757..94184,2,AAD44732, homologs of the Shigella flexneri SHI-2 pathogenicity island gene shiA,92.64,Scaffold5:93757..94184:shiB:2:AAD44732:84.415584
+Scaffold12:35498..36538:terC:1:KU341381:100.000000,terC,100.0,1041,1041,1..1041,Scaffold12,35498..36538,1,KU341381,  Tellurium ion resistance protein,100.0,Scaffold12:35498..36538:terC:1:KU341381:100.000000

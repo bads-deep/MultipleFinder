@@ -1,0 +1,37 @@
+clone:
+  depth: full
+image: python:3.10
+
+pipelines:
+  custom:
+      virulencefinder-mirror-to-github:
+        - step:
+            script:
+              - git push --mirror https://github.com/genomicepidemiology/virulencefinder
+      test-and-build:
+        - step:
+            name: Test
+            caches:
+              - pip
+            script:
+              - git clone https://git@bitbucket.org/genomicepidemiology/virulencefinder_db.git
+              - curl -sSL https://raw.githubusercontent.com/pdm-project/pdm/main/install-pdm.py | python3 -
+              - mkdir tools
+              - wget "https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.13.0/ncbi-blast-2.13.0+-x64-linux.tar.gz"
+              - tar -xf ncbi-blast-2.13.0+-x64-linux.tar.gz
+              - mv ncbi-blast-2.13.0+/bin/* tools/
+              - git clone https://bitbucket.org/genomicepidemiology/kma.git
+              - cd kma && make
+              - cd ..
+              - mv kma/kma tools/
+              - WORKDIR=`pwd`
+              - export CGE_KMA=$WORKDIR/tools/kma
+              - export CGE_BLASTN=$WORKDIR/tools/blastn
+              - export CGE_VIRULENCEFINDER_DB=$WORKDIR/virulencefinder_db
+              - export PATH=/root/.local/bin:$PATH
+              - cd $WORKDIR/virulencefinder_db
+              - python3 INSTALL.py $WORKDIR/tools/kma
+              - cd $WORKDIR
+              - pdm install
+              - pdm run test
+              - pdm build

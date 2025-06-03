@@ -1,0 +1,108 @@
+# ResFinder phenotype results.
+# Sample: SJTUF13473.fsa
+# 
+# The phenotype 'No resistance' should be interpreted with
+# caution, as it only means that nothing in the used
+# database indicate resistance, but resistance could exist
+# from 'unknown' or not yet implemented sources.
+# 
+# The 'Match' column stores one of the integers 0, 1, 2, 3.
+#      0: No match found
+#      1: Match < 100% ID AND match length < ref length
+#      2: Match = 100% ID AND match length < ref length
+#      3: Match = 100% ID AND match length = ref length
+# If several hits causing the same resistance are found,
+# the highest number will be stored in the 'Match' column.
+
+# Antimicrobial	Class	WGS-predicted phenotype	Match	Genetic background
+gentamicin	aminoglycoside	Resistant	3	aac(3)-IV (aac(3)-IV_DQ241380)
+tobramycin	aminoglycoside	Resistant	3	aac(6')-Iaa (aac(6')-Iaa_NC_003197), aac(3)-IV (aac(3)-IV_DQ241380)
+streptomycin	aminoglycoside	Resistant	3	aph(6)-Id (aph(6)-Id_M28829), aph(3'')-Ib (aph(3'')-Ib_AF321551), aadA2b (aadA2b_D43625), aadA1 (aadA1_JQ414041), aadA24 (aadA24_DQ677333), aadA22 (aadA22_AM261837)
+amikacin	aminoglycoside	Resistant	3	aac(6')-Iaa (aac(6')-Iaa_NC_003197)
+isepamicin	aminoglycoside	No resistance	0	
+dibekacin	aminoglycoside	No resistance	0	
+kanamycin	aminoglycoside	Resistant	2	aph(3')-Ia (aph(3')-Ia_EF015636)
+neomycin	aminoglycoside	Resistant	2	aph(3')-Ia (aph(3')-Ia_EF015636)
+lividomycin	aminoglycoside	No resistance	0	
+paromomycin	aminoglycoside	No resistance	0	
+ribostamycin	aminoglycoside	No resistance	0	
+unknown aminoglycoside	aminoglycoside	No resistance	0	
+butiromycin	aminoglycoside	No resistance	0	
+butirosin	aminoglycoside	No resistance	0	
+hygromycin	aminoglycoside	Resistant	2	aph(4)-Ia (aph(4)-Ia_V01499)
+netilmicin	aminoglycoside	No resistance	0	
+apramycin	aminoglycoside	No resistance	0	
+sisomicin	aminoglycoside	No resistance	0	
+arbekacin	aminoglycoside	No resistance	0	
+kasugamycin	aminoglycoside	No resistance	0	
+astromicin	aminoglycoside	No resistance	0	
+fortimicin	aminoglycoside	No resistance	0	
+spectinomycin	aminocyclitol	Resistant	2	aadA2b (aadA2b_D43625), aadA1 (aadA1_JQ414041), aadA24 (aadA24_DQ677333), aadA22 (aadA22_AM261837)
+fluoroquinolone	quinolone	No resistance	0	
+ciprofloxacin	quinolone	No resistance	0	
+unknown quinolone	quinolone	No resistance	0	
+nalidixic acid	quinolone	No resistance	0	
+amoxicillin	beta-lactam	Resistant	3	blaCTX-M-65 (blaCTX-M-65_EF418608), blaTEM-1B (blaTEM-1B_AY458016)
+amoxicillin+clavulanic acid	beta-lactam	No resistance	0	
+ampicillin	beta-lactam	Resistant	3	blaCTX-M-65 (blaCTX-M-65_EF418608), blaTEM-1B (blaTEM-1B_AY458016)
+ampicillin+clavulanic acid	beta-lactam	No resistance	0	
+cefepime	beta-lactam	Resistant	1	blaCTX-M-65 (blaCTX-M-65_EF418608)
+cefixime	beta-lactam	No resistance	0	
+cefotaxime	beta-lactam	Resistant	1	blaCTX-M-65 (blaCTX-M-65_EF418608)
+cefoxitin	beta-lactam	No resistance	0	
+ceftazidime	beta-lactam	Resistant	1	blaCTX-M-65 (blaCTX-M-65_EF418608)
+ertapenem	beta-lactam	No resistance	0	
+imipenem	beta-lactam	No resistance	0	
+meropenem	beta-lactam	No resistance	0	
+piperacillin	beta-lactam	Resistant	3	blaCTX-M-65 (blaCTX-M-65_EF418608), blaTEM-1B (blaTEM-1B_AY458016)
+piperacillin+tazobactam	beta-lactam	No resistance	0	
+unknown beta-lactam	beta-lactam	No resistance	0	
+aztreonam	beta-lactam	Resistant	1	blaCTX-M-65 (blaCTX-M-65_EF418608)
+cefotaxime+clavulanic acid	beta-lactam	No resistance	0	
+temocillin	beta-lactam	No resistance	0	
+ticarcillin	beta-lactam	Resistant	3	blaCTX-M-65 (blaCTX-M-65_EF418608), blaTEM-1B (blaTEM-1B_AY458016)
+ceftazidime+avibactam	beta-lactam	No resistance	0	
+penicillin	beta-lactam	No resistance	0	
+ceftriaxone	beta-lactam	Resistant	1	blaCTX-M-65 (blaCTX-M-65_EF418608)
+ticarcillin+clavulanic acid	beta-lactam	No resistance	0	
+cephalothin	beta-lactam	Resistant	3	blaTEM-1B (blaTEM-1B_AY458016)
+piperacillin+clavulanic acid	beta-lactam	No resistance	0	
+ceftiofur	under_development	No resistance	0	
+sulfamethoxazole	folate pathway antagonist	Resistant	3	sul3 (sul3_AJ459418), sul2 (sul2_HQ840942)
+trimethoprim	folate pathway antagonist	No resistance	0	
+fosfomycin	fosfomycin	No resistance	0	
+vancomycin	glycopeptide	No resistance	0	
+teicoplanin	glycopeptide	No resistance	0	
+bleomycin	glycopeptide	No resistance	0	
+lincomycin	lincosamide	Resistant	2	lnu(F) (lnu(F)_EU118119)
+clindamycin	lincosamide	No resistance	0	
+dalfopristin	streptogramin a	No resistance	0	
+pristinamycin iia	streptogramin a	No resistance	0	
+virginiamycin m	streptogramin a	No resistance	0	
+quinupristin+dalfopristin	streptogramin a	No resistance	0	
+tiamulin	pleuromutilin	No resistance	0	
+carbomycin	macrolide	No resistance	0	
+erythromycin	macrolide	No resistance	0	
+azithromycin	macrolide	No resistance	0	
+oleandomycin	macrolide	No resistance	0	
+spiramycin	macrolide	No resistance	0	
+tylosin	macrolide	No resistance	0	
+telithromycin	macrolide	No resistance	0	
+tetracycline	tetracycline	Resistant	3	tet(A) (tet(A)_AJ517790), tet(B) (tet(B)_AF326777)
+doxycycline	tetracycline	Resistant	3	tet(A) (tet(A)_AJ517790), tet(B) (tet(B)_AF326777)
+minocycline	tetracycline	Resistant	3	tet(B) (tet(B)_AF326777)
+tigecycline	tetracycline	No resistance	0	
+quinupristin	streptogramin b	No resistance	0	
+pristinamycin ia	streptogramin b	No resistance	0	
+virginiamycin s	streptogramin b	No resistance	0	
+linezolid	oxazolidinone	No resistance	0	
+chloramphenicol	amphenicol	Resistant	2	cmlA1 (cmlA1_M64556)
+florfenicol	amphenicol	No resistance	0	
+colistin	polymyxin	No resistance	0	
+fusidic acid	steroid antibacterial	No resistance	0	
+mupirocin	pseudomonic acid	No resistance	0	
+rifampicin	rifamycin	No resistance	0	
+metronidazole	nitroimidazole	No resistance	0	
+narasin	ionophores	No resistance	0	
+salinomycin	ionophores	No resistance	0	
+maduramicin	ionophores	No resistance	0	

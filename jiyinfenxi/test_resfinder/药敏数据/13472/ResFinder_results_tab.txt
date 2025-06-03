@@ -1,0 +1,5 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Iaa	100.00	438/438	100.0	1..438	Scaffold1	570066..570503	Amikacin, Tobramycin	NC_003197
+blaCTX-M-55	100.00	876/876	100.0	1..876	Scaffold28	6753..7628	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	DQ810789
+qnrS1	100.00	657/657	100.0	1..657	Scaffold28	1456..2112	Ciprofloxacin	AB187515
+tet(B)	100.00	1206/1206	100.0	1..1206	Scaffold26	1155..2360	Doxycycline, Tetracycline, Minocycline	AF326777

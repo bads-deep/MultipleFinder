@@ -1,0 +1,14 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Iaa	100.00	438/438	100.0	1..438	Scaffold1	338560..338997	Amikacin, Tobramycin	NC_003197
+aph(6)-Id	100.00	837/837	100.0	1..837	Scaffold41	3896..4732	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	Scaffold41	3093..3896	Streptomycin	AF321551
+blaCTX-M-14	100.00	876/876	100.0	1..876	Scaffold44	605..1480	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AF252622
+blaTEM-1B	100.00	861/861	100.0	1..861	Scaffold48	979..1839	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016
+mcr-1.1	100.00	1626/1626	100.0	1..1626	Scaffold12	29919..31544	Colistin	KP347127
+fosA3	100.00	417/417	100.0	1..417	Scaffold44	2092..2508	Fosfomycin	AB522970
+OqxB	99.94	3153/3153	100.0	1..3153	Scaffold37	953..4105	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913
+OqxA	99.91	1176/1176	100.0	1..1176	Scaffold37	4129..5304	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913
+sul2	100.00	816/816	100.0	1..816	Scaffold41	2217..3032	Sulfamethoxazole	HQ840942
+sul1	100.00	840/840	100.0	1..840	Scaffold45	950..1789	Sulfamethoxazole	U12338
+tet(B)	100.00	1206/1206	100.0	1..1206	Scaffold32	7734..8939	Doxycycline, Tetracycline, Minocycline	AF326777
+bleO	100.00	392/399	98.24561403508771	8..399	Scaffold51	491..882	Bleomycin	AF051917

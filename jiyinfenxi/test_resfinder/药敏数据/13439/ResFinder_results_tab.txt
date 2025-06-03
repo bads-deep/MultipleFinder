@@ -1,0 +1,13 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Iaa	100.00	438/438	100.0	1..438	Scaffold2	113488..113925	Amikacin, Tobramycin	NC_003197
+aac(6')-Ib-cr	100.00	519/519	100.0	1..519	Scaffold33	5506..6024	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin, Ciprofloxacin	EF636461
+aac(6')-Ib-cr	100.00	519/519	100.0	1..519	Scaffold33	11440..11958	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin, Ciprofloxacin	EF636461
+blaOXA-1	100.00	831/831	100.0	1..831	Scaffold33	12089..12919	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510
+catB3	100.00	633/633	100.0	1..633	Scaffold33	13057..13689	Chloramphenicol	U13880
+qnrA1	99.85	657/657	100.0	1..657	Scaffold33	17839..18495	Ciprofloxacin	AY070235
+ARR-3	100.00	453/453	100.0	1..453	Scaffold33	13774..14226	Rifampicin	JF806499
+sul1	100.00	840/840	100.0	1..840	Scaffold33	14790..15629	Sulfamethoxazole	U12338
+sul1	100.00	840/840	100.0	1..840	Scaffold33	20147..20986	Sulfamethoxazole	U12338
+sul2	100.00	816/816	100.0	1..816	Scaffold38	956..1771	Sulfamethoxazole	AY034138
+sul1	100.00	840/840	100.0	1..840	Scaffold39	4931..5770	Sulfamethoxazole	U12338
+tet(D)	100.00	1185/1185	100.0	1..1185	Scaffold41	948..2132	Doxycycline, Tetracycline	AF467077

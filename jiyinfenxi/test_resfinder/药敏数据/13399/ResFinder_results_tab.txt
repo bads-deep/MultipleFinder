@@ -1,0 +1,24 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Iaa	100.00	438/438	100.0	1..438	Scaffold1	293866..294303	Amikacin, Tobramycin	NC_003197
+aph(6)-Id	100.00	837/837	100.0	1..837	Scaffold39	8353..9189	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	Scaffold39	9189..9992	Streptomycin	AF321551
+aph(4)-Ia	99.90	1026/1026	100.0	1..1026	Scaffold40	7059..8084	Hygromycin	V01499
+aac(3)-IV	99.87	777/777	100.0	1..777	Scaffold40	8313..9089	Gentamicin, Tobramycin	DQ241380
+aadA1	100.00	792/792	100.0	1..792	Scaffold41	4866..5657	Spectinomycin, Streptomycin	JQ414041
+aadA2b	99.87	780/780	100.0	1..780	Scaffold41	7271..8050	Spectinomycin, Streptomycin	D43625
+aac(6')-Ib-cr	100.00	600/600	100.0	1..600	Scaffold43	629..1228	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin, Ciprofloxacin	DQ303918
+aadA8b	99.83	589/792	74.36868686868688	1..589	Scaffold47	1..589	Spectinomycin, Streptomycin	AM040708
+aadA8	99.83	589/792	74.36868686868688	1..589	Scaffold47	1..589	Spectinomycin, Streptomycin	AF326210
+aadA3	99.83	589/792	74.36868686868688	1..589	Scaffold47	1..589	Spectinomycin, Streptomycin	AF047479
+aadA2	99.83	589/792	74.36868686868688	1..589	Scaffold47	1..589	Spectinomycin, Streptomycin	JQ364967
+aph(3')-Ia	100.00	816/816	100.0	1..816	Scaffold48	720..1535	Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin, Kanamycin, Kanamycin, Neomycin, Unknown Aminoglycoside	V00359
+blaOXA-1	100.00	831/831	100.0	1..831	Scaffold43	1359..2189	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510
+floR	98.19	1214/1215	99.91769547325103	1..1214	Scaffold36	2175..3388	Chloramphenicol, Florfenicol	AF118107
+cmlA1	99.92	1260/1260	100.0	1..1260	Scaffold41	5750..7009	Chloramphenicol	M64556
+catB3	100.00	633/633	100.0	1..633	Scaffold43	2327..2959	Chloramphenicol	U13880
+ARR-3	100.00	453/453	100.0	1..453	Scaffold43	3044..3496	Rifampicin	JF806499
+sul2	100.00	816/816	100.0	1..816	Scaffold40	1397..2212	Sulfamethoxazole	AY034138
+sul3	100.00	792/792	100.0	1..792	Scaffold41	2393..3184	Sulfamethoxazole	AJ459418
+sul1	100.00	840/840	100.0	1..840	Scaffold43	4060..4899	Sulfamethoxazole	U12338
+tet(A)	99.92	1200/1200	100.0	1..1200	Scaffold39	5727..6926	Doxycycline, Tetracycline	AJ517790
+dfrA12	100.00	498/498	100.0	1..498	Scaffold47	997..1494	Trimethoprim	AM040708

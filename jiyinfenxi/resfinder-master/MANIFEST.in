@@ -1,0 +1,6 @@
+include CHANGELOG.md
+include LICENSE
+include README.md
+include src/resfinder/VERSION
+include src/resfinder/amr_abbreviations.md
+include src/resfinder/environment_variables.md

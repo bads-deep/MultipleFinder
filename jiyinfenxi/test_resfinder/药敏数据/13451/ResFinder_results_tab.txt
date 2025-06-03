@@ -1,0 +1,27 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Iaa	100.00	438/438	100.0	1..438	Scaffold1	582556..582993	Amikacin, Tobramycin	NC_003197
+aph(4)-Ia	100.00	1026/1026	100.0	1..1026	Scaffold32	1514..2539	Hygromycin	V01499
+aac(3)-IV	99.87	777/777	100.0	1..777	Scaffold32	509..1285	Gentamicin, Tobramycin	DQ241380
+aadA1	100.00	792/792	100.0	1..792	Scaffold37	2398..3189	Spectinomycin, Streptomycin	JQ414041
+aadA2b	99.87	780/780	100.0	1..780	Scaffold37	5..784	Spectinomycin, Streptomycin	D43625
+aac(6')-Ib-cr	100.00	600/600	100.0	1..600	Scaffold46	4068..4667	Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin, Ciprofloxacin	DQ303918
+aadA8	100.00	589/792	74.36868686868688	1..589	Scaffold47	1..589	Spectinomycin, Streptomycin	AF326210
+aadA3	100.00	589/792	74.36868686868688	1..589	Scaffold47	1..589	Spectinomycin, Streptomycin	AF047479
+aadA8b	99.83	589/792	74.36868686868688	1..589	Scaffold56	1352..1940	Spectinomycin, Streptomycin	AM040708
+aadA8	99.83	589/792	74.36868686868688	1..589	Scaffold56	1352..1940	Spectinomycin, Streptomycin	AF326210
+aadA3	99.83	589/792	74.36868686868688	1..589	Scaffold56	1352..1940	Spectinomycin, Streptomycin	AF047479
+aadA2	99.83	589/792	74.36868686868688	1..589	Scaffold56	1352..1940	Spectinomycin, Streptomycin	JQ364967
+aph(3')-Ia	100.00	816/816	100.0	1..816	Scaffold57	546..1361	Kanamycin, Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin, Kanamycin, Neomycin, Unknown Aminoglycoside	V00359
+blaOXA-1	100.00	831/831	100.0	1..831	Scaffold46	3107..3937	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510
+floR	98.19	1214/1215	99.91769547325103	1..1214	Scaffold32	10705..11918	Chloramphenicol, Florfenicol	AF118107
+cmlA1	99.92	1260/1260	100.0	1..1260	Scaffold37	1046..2305	Chloramphenicol	M64556
+catB3	100.00	633/633	100.0	1..633	Scaffold46	2337..2969	Chloramphenicol	U13880
+OqxB	100.00	3153/3153	100.0	1..3153	Scaffold39	953..4105	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913
+OqxA	100.00	1176/1176	100.0	1..1176	Scaffold39	4129..5304	Chloramphenicol, Nalidixic acid, Ciprofloxacin, Trimethoprim	EU370913
+ARR-3	100.00	453/453	100.0	1..453	Scaffold46	1800..2252	Rifampicin	JF806499
+sul2	100.00	816/816	100.0	1..816	Scaffold32	7386..8201	Sulfamethoxazole	AY034138
+sul3	100.00	792/792	100.0	1..792	Scaffold37	4871..5662	Sulfamethoxazole	AJ459418
+sul1	100.00	840/840	100.0	1..840	Scaffold46	397..1236	Sulfamethoxazole	U12338
+sul1	100.00	840/840	100.0	1..840	Scaffold50	2131..2970	Sulfamethoxazole	U12338
+dfrA12	100.00	498/498	100.0	1..498	Scaffold56	447..944	Trimethoprim	AM040708
+bleO	100.00	392/399	98.24561403508771	8..399	Scaffold54	491..882	Bleomycin	AF051917

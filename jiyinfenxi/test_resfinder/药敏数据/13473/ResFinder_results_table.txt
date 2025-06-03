@@ -1,0 +1,75 @@
+Aminoglycoside
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Iaa	100.00	438/438	100.0	1..438	Scaffold1	261473..261910	Amikacin, Tobramycin	NC_003197
+aph(4)-Ia	99.90	1026/1026	100.0	1..1026	Scaffold34	6681..7706	Hygromycin	V01499
+aph(6)-Id	100.00	837/837	100.0	1..837	Scaffold34	836..1672	Streptomycin	M28829
+aph(3')-Ia	99.88	816/816	100.0	1..816	Scaffold34	2008..2823	Kanamycin, Kanamycin, Neomycin, Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin, Unknown Aminoglycoside	EF015636
+aph(3'')-Ib	100.00	804/804	100.0	1..804	Scaffold34	33..836	Streptomycin	AF321551
+aac(3)-IV	100.00	777/777	100.0	1..777	Scaffold34	7935..8711	Gentamicin, Tobramycin	DQ241380
+aadA2b	99.87	780/780	100.0	1..780	Scaffold36	2336..3115	Spectinomycin, Streptomycin	D43625
+aadA1	100.00	722/792	91.16161616161617	1..722	Scaffold36	1..722	Spectinomycin, Streptomycin	JQ414041
+aadA24	100.00	654/780	83.84615384615385	127..780	Scaffold42	1..654	Spectinomycin, Streptomycin	DQ677333
+aadA1	100.00	654/792	82.57575757575758	139..792	Scaffold42	1..654	Spectinomycin, Streptomycin	JQ414041
+aph(6)-Id	100.00	837/837	100.0	1..837	Scaffold47	3968..4804	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	Scaffold47	3165..3968	Streptomycin	AF321551
+aadA22	100.00	654/792	82.57575757575758	139..792	Scaffold54	1500..2153	Spectinomycin, Streptomycin	AM261837
+aph(6)-Id	100.00	837/837	100.0	1..837	Scaffold55	9..845	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	Scaffold55	845..1648	Streptomycin	AF321551
+
+Beta-lactam
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCTX-M-65	100.00	693/876	79.1095890410959	184..876	Scaffold29	3097..3789	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	EF418608
+blaTEM-1B	100.00	861/861	100.0	1..861	Scaffold49	2852..3712	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016
+blaTEM-1B	100.00	861/861	100.0	1..861	Scaffold53	992..1852	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AY458016
+
+Colistin
+No hit found
+
+Fosfomycin
+No hit found
+
+Fusidic Acid
+No hit found
+
+MLS - Macrolide, Lincosamide and Streptogramin B
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+lnu(F)	99.88	822/822	100.0	1..822	Scaffold54	547..1368	Lincomycin	EU118119
+
+Misc
+No hit found
+
+Nitroimidazole
+No hit found
+
+Oxazolidinone
+No hit found
+
+Phenicol
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+cmlA1	99.92	1260/1260	100.0	1..1260	Scaffold36	815..2074	Chloramphenicol	M64556
+
+Fluoroquinolone
+No hit found
+
+Rifampicin
+No hit found
+
+Sulphonamide
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+sul3	100.00	792/792	100.0	1..792	Scaffold42	2336..3127	Sulfamethoxazole	AJ459418
+sul2	100.00	816/816	100.0	1..816	Scaffold47	2289..3104	Sulfamethoxazole	HQ840942
+
+Tetracycline
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+tet(A)	99.92	1200/1200	100.0	1..1200	Scaffold29	7696..8895	Doxycycline, Tetracycline	AJ517790
+tet(B)	100.00	1206/1206	100.0	1..1206	Scaffold39	686..1891	Doxycycline, Tetracycline, Minocycline	AF326777
+
+Trimethoprim
+No hit found
+
+Glycopeptide
+No hit found
+
+Pseudomonic Acid
+No hit found
+

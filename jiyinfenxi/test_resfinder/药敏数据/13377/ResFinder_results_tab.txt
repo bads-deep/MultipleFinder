@@ -1,0 +1,12 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-Iaa	100.00	438/438	100.0	1..438	Scaffold1	569989..570426	Amikacin, Tobramycin	NC_003197
+aadA1	99.75	792/792	100.0	1..792	Scaffold42	2386..3177	Spectinomycin, Streptomycin	JX185132
+aadA1	99.75	792/792	100.0	1..792	Scaffold42	2386..3177	Spectinomycin, Streptomycin	JQ414041
+aadA2	100.00	792/792	100.0	1..792	Scaffold45	127..918	Spectinomycin, Streptomycin	JQ364967
+blaOXA-1	100.00	831/831	100.0	1..831	Scaffold42	1443..2273	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Piperacillin, Piperacillin+Tazobactam	HQ170510
+catA1	99.85	660/660	100.0	1..660	Scaffold39	6005..6664	Chloramphenicol	V00622
+sul1	100.00	840/840	100.0	1..840	Scaffold37	12415..13254	Sulfamethoxazole	U12338
+sul1	100.00	840/840	100.0	1..840	Scaffold42	3682..4521	Sulfamethoxazole	U12338
+sul1	100.00	840/840	100.0	1..840	Scaffold43	2593..3432	Sulfamethoxazole	U12338
+tet(B)	100.00	1206/1206	100.0	1..1206	Scaffold41	2406..3611	Doxycycline, Tetracycline, Minocycline	AF326777
+dfrA12	100.00	498/498	100.0	1..498	Scaffold45	1326..1823	Trimethoprim	AM040708
